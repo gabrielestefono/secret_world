@@ -9,3 +9,21 @@ body{
 	background: linear-gradient(180deg, rgba(9,35,175,1) 0%, rgba(0,0,0,1) 100%);
 	color: white;
 }
+
+button {
+	background-color: #1646a0;
+	color: #fff;
+	padding: 0 45px;
+	border: 2px solid #fff;
+	border-radius: 1.5625rem;
+	height: 3.125rem;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 1.2rem;
+	cursor: pointer;
+	transition: 0.4s;
+}
+
+button:hover{
+	background-color: #0923af;
+}
